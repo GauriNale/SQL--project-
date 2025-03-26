@@ -19,7 +19,6 @@ queries to solve question to related pizza sales.
 
 ## Advanced
 10) Calculate the percentage of contribution of each pizza type to total revenue.
-11) 
 
 
 
