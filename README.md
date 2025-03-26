@@ -3,6 +3,8 @@ Hello,
 My name is Gauri and in this project i have utilized SQL
 queries to solve question to related pizza sales.
 
+<a href = "https://github.com/GauriNale/SQL--project-/blob/main/Screenshot%202025-03-26%20172645.png">pizzza_hut cover photo</a>
+
 ## SQL Pizza_hut Database questions:
 # Basic-
 1) Retrive the total number of orders placed.
