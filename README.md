@@ -23,7 +23,7 @@ the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 
 ## Here's  SQL query with questions.
 
-<a href = "https://github.com/GauriNale/SQL--project-/blob/main/Pizza_Hut%20SQL.sql">Que.& ans.<a/>
+<a href = "https://github.com/GauriNale/SQL--project-/blob/main/Pizza_Hut%20SQL.sql">Queries with questions.<a/>
 
 
 
