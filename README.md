@@ -4,7 +4,7 @@ Pizza_hut data analysis done by Gauri Nale in SQL server .This dataset is provid
 pizzahut. In pizzahut, they used this dataset to train and ask questions . This data does not reveal anything about 
 the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 
-## SQL Pizza_hut Database questions:
+## Here's the SQL Questions 
 # Basic-
 1) Retrive the total number of orders placed.
 2) Calculate the total revenue generated frimm pizza sales.
@@ -21,7 +21,7 @@ the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 ## Advanced
 10) Calculate the percentage of contribution of each pizza type to total revenue.
 
-## SQL Solve Questions for Pizza_hut database 
+## Here's  SQL query with Questions
 
 <a href = "https://github.com/GauriNale/SQL--project-/blob/main/Pizza_Hut%20SQL.sql">Que.& ans.<a/>
 
