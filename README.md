@@ -21,7 +21,7 @@ the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 ## Advanced
 10) Calculate the percentage of contribution of each pizza type to total revenue.
 
-## Here's  SQL query with Questions
+## Here's  SQL query with questions.
 
 <a href = "https://github.com/GauriNale/SQL--project-/blob/main/Pizza_Hut%20SQL.sql">Que.& ans.<a/>
 
