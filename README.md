@@ -23,6 +23,19 @@ queries to solve question to related pizza sales.
 10) Calculate the percentage of contribution of each pizza type to total revenue.
 
 
+<a href = "https://github.com/GauriNale/SQL--project-/blob/main/Pizza_Hut%20SQL.sql">Que.& ans.<a/>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
