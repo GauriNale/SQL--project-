@@ -1,9 +1,8 @@
-# SQL project - PIZZA_HUT
-Hello,
-My name is Gauri and in this project i have utilized SQL
-queries to solve question to related pizza sales.
-
 <a href = "https://github.com/GauriNale/SQL--project-/blob/main/Screenshot%202025-03-26%20172645.png">pizzza_hut cover photo</a>
+
+Pizza_hut data analysis done by Gauri Nale in SQL server .This dataset is provided by friend of mine intern at 
+pizzahut. In pizzahut, they used this dataset to train and ask questions . This data does not reveal anything about 
+the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 
 ## SQL Pizza_hut Database questions:
 # Basic-
