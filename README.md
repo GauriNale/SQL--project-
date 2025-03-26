@@ -3,7 +3,7 @@ Hello,
 My name is Gauri and in this project i have utilized SQL
 queries to solve question to related pizza sales.
 
-## SQL questions:
+## SQL Pizza_hut Database questions:
 # Basic-
 1) Retrive the total number of orders placed.
 2) Calculate the total revenue generated frimm pizza sales.
