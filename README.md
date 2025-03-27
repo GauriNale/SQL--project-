@@ -1,8 +1,8 @@
 <a href = "https://github.com/GauriNale/SQL--project-/blob/main/Screenshot%202025-03-26%20172645.png">pizzza_hut cover photo</a>
 
-Pizza_hut data analysis done by Gauri Nale in SQL server .This dataset is provided by friend of mine intern at 
-pizzahut. In pizzahut, they used this dataset to train and ask questions . This data does not reveal anything about 
-the pizzahut. It is safe to share. you can also find the dataset on kaggle.
+Welcome to the Pizza Hut Sales Analysis Project! This Project leverages SQL Server to analyze sales data extract 
+meaningful insights thorugh a series of SQL queries. Eachn query addresses specific buisness questions, helping to
+understand sales trends, revenue gerenration, and customer preferences.
 
 ## Here's the SQL Questions 
 # Basic-
